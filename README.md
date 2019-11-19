@@ -28,6 +28,9 @@ I am currently a [Computer Engineering](http://ceg.nus.edu.sg/) undergraduate at
 | GEH1036 Living with Mathematics | AY2018-2019 Semester 1 | [[Midterm](content/GEH1036/midterm.pdf)] [[Final](content/GEH1036/final.pdf)] |
 | GES1004 The Biophysical Environment of Singapore | AY2016-2017 Semester 2 | [[Midterm](content/GES1004/midterm.pdf)] [[Final](content/GES1004/final.pdf)] |
 | GET1018 The Mathematics of Games | AY2018-2019 Semester 2 | [[Final](content/GET1018/final.pdf)] |
+| MA1505 Mathematics I | AY2016-2017 Semester 1 | [[Final](content/MA1505/final.pdf)] |
+| MA1506 Mathematics II | AY2016-2017 Semester 2 | [[Midterm](content/MA1506/midterm.pdf)] [[Final](content/MA1506/final.pdf)] |
+| ST2334 Probability and Statistics | AY2017-2018 Semester 2 | [[Midterm](content/ST2334/midterm.pdf)] [[Final](content/ST2334/final.pdf)] |
 
 ## Copyright
 
