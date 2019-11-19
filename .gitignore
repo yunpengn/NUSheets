@@ -62,3 +62,7 @@ typings/
 
 # MacOS specific files & folders
 .DS_Store
+
+# Microsoft Word documents
+.doc
+.docx
