@@ -17,7 +17,12 @@ I am currently a [Computer Engineering](http://ceg.nus.edu.sg/) undergraduate at
 
 | Module | Taken in | Help-sheets |
 | --- | --------- | -------- |
-|  |  |  |
+| CG2023 Signals and Systems | AY2017-2018 Semester 2 | [[Midterm](content/CG2023/midterm.pdf)] [[Final](content/CG2023/final.pdf)] |
+| CS1101S Programming Methodology | AY2016-2017 Semester 1 | [[Midterm](content/CS1101S/midterm.pdf)] [[Final](content/CS1101S/final.pdf)] |
+| CS1231 Discrete Structures | AY2016-2017 Semester 1 | [[Final](content/CS1231/final.pdf)] |
+| CS2020 Data Structure and Algorithms Accelerated | AY2016-2017 Semester 2 | [[Quiz 1](content/CS2020/quiz1.pdf)] [[Quiz 2](content/CS2020/quiz2.pdf)] [[Coding Quiz](content/CS2020/coding.pdf)] [[Final](content/CS2020/final.pdf)] |
+| CS2102 Database Systems | AY2017-2018 Semester 2 | [[Midterm](content/C2102/midterm.pdf)] [[Final](content/CS2102/final.pdf)] |
+| CS2103T Software Engineering | AY2017-2018 Semester 1 | [[Final](content/CS2103T/final.pdf)] |
 
 ## Copyright
 
