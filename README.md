@@ -23,6 +23,7 @@ I am currently a [Computer Engineering](http://ceg.nus.edu.sg/) undergraduate at
 | CS2020 Data Structure and Algorithms Accelerated | AY2016-2017 Semester 2 | [[Quiz 1](content/CS2020/quiz1.pdf)] [[Quiz 2](content/CS2020/quiz2.pdf)] [[Coding Quiz](content/CS2020/coding.pdf)] [[Final](content/CS2020/final.pdf)] |
 | CS2102 Database Systems | AY2017-2018 Semester 2 | [[Midterm](content/C2102/midterm.pdf)] [[Final](content/CS2102/final.pdf)] |
 | CS2103T Software Engineering | AY2017-2018 Semester 1 | [[Final](content/CS2103T/final.pdf)] |
+| CS4224 Distributed Databases | AY2019-2020 Semester 1 | [[Final](content/CS4224/final.pdf)] |
 | CS4236 Cryptography Theory and Practice | AY2018-2019 Semester 1 | [[Final](content/CS4236/final.pdf)] |
 | EE4204 Computer Networks | AY2018-2019 Semester 1 | [[Final](content/EE4204/final.pdf)] |
 | GEH1036 Living with Mathematics | AY2018-2019 Semester 1 | [[Midterm](content/GEH1036/midterm.pdf)] [[Final](content/GEH1036/final.pdf)] |
