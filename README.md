@@ -1,6 +1,6 @@
 # NUSheets
 
-[![Build Status](https://travis-ci.com/yunpengn/NUSheets.svg?branch=master)](https://travis-ci.com/yunpengn/NUSheets)
+[![CI pipeline](https://github.com/yunpengn/NUSheets/workflows/CI%20pipeline/badge.svg)](https://github.com/yunpengn/NUSheets/actions)
 
 A collection of help-sheets for different modules at the [National University of Singapore](http://www.nus.edu.sg).
 
