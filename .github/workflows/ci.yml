@@ -1,0 +1,39 @@
+name: CI pipeline
+
+# Defines when to trigger this workflow
+on:
+  # When pushing commit(s) to master or adding any tag(s).
+  push:
+    branches: [ master ]
+    tags: [ '**' ]
+  # When submiting pull request to master.
+  pull_request:
+    branches: [ master ]
+    tags: [ '**' ]
+  # Every Monday, 1:00 am (UTC).
+  schedule:
+    - cron: '0 1 * * 1'
+
+# Defines all jobs to be run in parallel.
+jobs:
+  # See https://help.github.com/en/actions/language-and-framework-guides
+  validate-links:
+    name: Validate links in README.md
+    runs-on: ubuntu-latest
+    steps:
+      # See https://github.com/actions/checkout
+      - name: Download the repository to $GITHUB_WORKSPACE
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 50
+      # See https://github.com/actions/setup-ruby
+      - name: Setup Ruby
+        uses: actions/setup-ruby@v1
+        with:
+          ruby-version: 2.7
+      # See https://github.com/actions/setup-ruby
+      - name: Install awesome_bot
+        run: gem install awesome_bot
+      # See https://github.com/dkhamsing/awesome_bot
+      - name: Validate links in Markdown
+        run: awesome_bot README.md --allow-dupe --allow-redirect --allow 429 -w linkedin.com --skip-save-results
